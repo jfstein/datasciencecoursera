@@ -1,5 +1,3 @@
-setwd("C:/Users/Joseph/datasciencecoursera/course3")
-        
 # Read datasets
 print("Reading train data...")
 train_measurement <- read.table("./UCI_HAR_Dataset/train/X_train.txt")
